@@ -167,3 +167,6 @@ target/
  
 #intellj idea
 *.iml
+.idea/
+*.log
+*.lck
